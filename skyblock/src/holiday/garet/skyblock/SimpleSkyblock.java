@@ -636,7 +636,7 @@ public class SimpleSkyblock extends JavaPlugin implements Listener {
 	            		sender.sendMessage(ChatColor.DARK_GRAY + "-" + ChatColor.GOLD + " /is upgrades" + ChatColor.RESET + ": show island upgrades.");
 	            		return true;
             		} else {
-                		sender.sendMessage(ChatColor.GREEN + "Island Commands (1/3)" + ChatColor.GRAY + ": ");
+                		sender.sendMessage(ChatColor.GREEN + "SiraSky Commandes (1/3)" + ChatColor.GRAY + ": ");
                 		sender.sendMessage(ChatColor.GRAY + "usage: /is [args]\n");
 	            		sender.sendMessage(ChatColor.DARK_GRAY + "-" + ChatColor.GOLD + " /is help [n]" + ChatColor.RESET + ": view page [n] of /island help.");
 	            		sender.sendMessage(ChatColor.DARK_GRAY + "-" + ChatColor.GOLD + " /is home" + ChatColor.RESET + ": teleports you to your island home.");
